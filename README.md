@@ -8,7 +8,7 @@
     The Definitive Django Learning Platform.
   </p>
 </p>
-
+    
 # Django Project Boilerplate
 
 This repository is a boilerplate Django project for quickly getting started.
