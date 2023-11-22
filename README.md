@@ -19,7 +19,7 @@ This repository is a boilerplate Django project for quickly getting started.
 
 ## Getting started
 
-Steps:
+Steps
 
 1. Clone/pull/download this repository
 2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
